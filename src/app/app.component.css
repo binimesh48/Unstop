@@ -1,0 +1,13 @@
+#seats {
+  border: 1px solid black;
+  width: 100px;
+  height: 20px;
+}
+
+.booked {
+  background-color: red;
+}
+
+.available {
+  background-color: green;
+}
